@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # ppm_uts_julhan
 
 A new Flutter project.
@@ -16,9 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# ppm-uts
->>>>>>> 9e6fb33d50611409f3f19d1a5266cf808bc83b9b
-=======
-# ppm-uts
->>>>>>> 9e6fb33d50611409f3f19d1a5266cf808bc83b9b
